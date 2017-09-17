@@ -1,2 +1,1 @@
-# hello-world
-my first repository
+This is a simple Python terminal game of dice
